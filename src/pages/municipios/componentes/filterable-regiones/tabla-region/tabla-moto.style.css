@@ -1,0 +1,17 @@
+.tabla-moto-container {
+    width: 55%; 
+    min-height: 210px;
+ 
+    margin: 16px auto;
+    margin-right: 3px;
+   float:left;
+background-color:seagreen;
+}
+
+.der{
+ 
+    font-weight: bold;
+    word-spacing: 64px;
+font-style: italic;
+color: blue;
+}

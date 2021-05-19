@@ -1,0 +1,16 @@
+.tabla-cars-container {
+    width: 55%; 
+   min-height: 312px;
+  
+   margin: 16px auto;
+   margin-right: 3px;
+   float: right;
+background-color:seagreen;
+}
+
+.der{
+ 
+    
+    word-spacing: 64px;
+
+}

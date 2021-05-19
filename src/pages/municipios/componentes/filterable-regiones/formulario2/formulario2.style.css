@@ -1,0 +1,13 @@
+.formulario2-container{
+    
+    width: 44%;
+    min-height: 5px;
+    margin: 21px auto;
+    margin-right: 60%;
+    text-align: left;
+   background-color:steelblue;
+}
+th{
+    font-weight: bold;
+    
+}

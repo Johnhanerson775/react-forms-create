@@ -1,0 +1,36 @@
+.moto-container {
+
+   text-align: left;
+   margin-bottom: 2px;
+   width: 100%;
+   background-color: brown;
+ 
+  } 
+
+ .product-without-stock{
+    color: red;
+ }
+ 
+ .clima{
+   float: right;
+  margin-left: 98px;
+  padding-right: 4px;
+ }
+ .poblacion{
+   float: right;
+  
+}
+.izq{
+   
+width: 33% auto;
+text-align: left;
+}
+.centro{
+width: 28% ;
+text-align: center;
+}
+.derecha{
+width: 33%;
+text-align: right;
+
+}
